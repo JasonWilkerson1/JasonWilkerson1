@@ -43,20 +43,13 @@ Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**
 
 ## 💼 Work Experience
 
-### **Software Developer at Wilkerson Technologies**
-- Delivered secure, scalable SaaS applications for small businesses.
-- Consulted on **cybersecurity solutions**, implementing phishing prevention strategies.
-- Built and deployed high-performance websites for various clients.
-
 ### **Phishing Specialist**
 - Conducted in-depth phishing campaigns to evaluate organizational security posture.
 - Developed phishing detection tools using **Python** and **Flask**.
 
-### **Open Source Contributor**
-- Contributed to GitHub repositories focused on **cybersecurity** and **automation**.
-- Collaborated with global developers to modernize community-driven solutions.
-
----
+### **FTDC Student Worker** 
+- Developed automatic downloaders for Windows suite and several other business program applications.
+- Troubleshoot software and hardware problems for the University of Mississippi 
 
 ## 🎓 Currently Learning
 - **Distributed Systems**: Building scalable, fault-tolerant systems.
