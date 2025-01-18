@@ -1,53 +1,95 @@
-Howdy, I'm Larson! 👋
-Welcome to my GitHub! I'm a Software Engineer, Tech consultant, Open Source Aficionado - I'm all about making tech work for you and your company.
+# Hi there, I'm Jason Wilkerson! 👋
 
-👾 About Me:
-💼 Software Development Engineer I at Gateway Apps, where I get to work on private internal tools for clients and our company.
-🎓 Master's Computer Science Student at the Clemson University, expected to graduate - eventually. 🥳
-🛠️ Founder of Carter Technologies, LLC & Coreify AI, Inc., where I consult on Networking, Infrastructure, SaaS deployments, AI/ML and much more.
-👨‍🏫 Previous Chair of Hackathons at Ole Miss(Alum), leading initiatives to foster innovation and tech collaboration for students. 💡
-🤝 Proud Open Source Maintainer of Oh My Zsh, working with a community of 15,500+ developers and maintaining a project with over 175,000 GitHub stars!
-🌍 I love contributing to open-source, consulting on tech solutions, and participating in hackathons! ⚡
-💾 Skills & Technologies:
-Tech @ Gateway
-TypeScript JavaScript React Remix Docker Shell
+Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**, and **Cybersecurity Enthusiast**. My passion lies in building innovative tech solutions and fostering secure, scalable systems.
 
-Tech @ Carter Tech & Coreify AI
-Swift Java Scala Python Laravel
+---
 
-Tech i'm trying to learn
-Rust Go
+## 🖼️ About Me
 
-Platforms:
-macOS Windows Linux
+<img align="right" width="250" src="https://via.placeholder.com/250" alt="Jason Wilkerson Logo">
 
-Expertise:
-System and Network Administration, Microservices, Distributed Computing, System Design, Solutions Architecture, AI/ML (Learning)
+- 💼 **Software Engineer** working on modernizing applications and delivering impactful solutions.
+- 🎓 **Senior Computer Science Student** at Ole Miss, specializing in **Cybersecurity** and minoring in **Mathematics**.
+- 🛠️ Founder of **Wilkerson Technologies**, consulting on **Networking**, **Infrastructure**, and **AI/ML** projects.
+- 🌟 **Open Source Contributor**, actively giving back to the community through meaningful collaboration.
+- 🎤 Former **Hackathon Organizer** at Ole Miss, leading events that drive innovation and creativity.
 
-🚀 Work Experience:
-Software Development Engineer I at Gateway Apps (2024 December - Present)
+---
 
-Maintaining internal work management systems (package security, package maintenance)
-Modernized local and production deployments of shared work systems
-Jr. Software Developer at C-Spire (2024 - 2024 December)
+## 🛠️ Skills & Technologies
 
-Joined the Systems Integration Team, maintaining and creating microservices for enterprise customers.
-Specialized in provisioning new services and products while ensuring performance and resiliency.
-Founder at Carter Technologies, LLC (2022 - Present)
+### **Core Competencies**
+- **Programming Languages**: Python, JavaScript, Java, C#, HTML, CSS
+- **Frameworks & Tools**: React, Flask, Django, SQLAlchemy, Docker, Kubernetes
+- **Cybersecurity Focus**: Phishing Prevention, Encryption, Secure Networking
 
-Consult on SaaS, networking, and mobile app development.
-Partnered with Crowd Cover to scale their infrastructure, supporting thousands of daily users.
-Open Source Maintainer at Oh My Zsh (2019 - Present)
+### **Learning**
+- **Rust**: For efficient system programming.
+- **Go**: Exploring high-performance backend development.
 
-Helped modernize governance, migrate the project, and maintain community engagement through GitHub and Discord.
-Hoping to become more active.
-🌱 Currently Learning:
-Rust (Building an alternative to Homebrew!)
-Advanced SwiftUI and Laravel development
-Trying to build my own UNIX Kernel with my own Package Manager
-Trying to create a AI Judgement Legal System
-Expanding my knowledge in distributed systems and cloud architecture
-🎮 Fun Facts:
-🚀 Still trying to escape the tutorial level of life.
-🕹️ Coding style: questionable but fashionable. (⌐■_■)
-💾 Debugging approach: blow the cartridge and cross your fingers.
+### **Platforms**
+<img align="left" width="60" src="https://via.placeholder.com/60" alt="MacOS Logo">  
+<img align="left" width="60" src="https://via.placeholder.com/60" alt="Windows Logo">  
+<img align="left" width="60" src="https://via.placeholder.com/60" alt="Linux Logo">  
+
+---
+
+## 💼 Work Experience
+
+### **Software Developer at Wilkerson Technologies**
+- Delivered secure, scalable SaaS applications for small businesses.
+- Consulted on **cybersecurity solutions**, implementing phishing prevention strategies.
+- Built and deployed high-performance websites for various clients.
+
+### **Phishing Specialist**
+- Conducted in-depth phishing campaigns to evaluate organizational security posture.
+- Developed phishing detection tools using **Python** and **Flask**.
+
+### **Open Source Contributor**
+- Contributed to GitHub repositories focused on **cybersecurity** and **automation**.
+- Collaborated with global developers to modernize community-driven solutions.
+
+---
+
+## 🎓 Currently Learning
+- **Distributed Systems**: Building scalable, fault-tolerant systems.
+- **Cloud Architecture**: Advancing expertise in AWS, Azure, and GCP.
+- **AI/ML for Cybersecurity**: Implementing machine learning models for phishing detection.
+
+---
+
+## 🖼️ Fun Facts
+
+- 🔒 **Passionate About Cybersecurity**: Dedicated to protecting users from cyber threats.
+- 🚀 **Debugging Approach**: "Blow the cartridge and cross your fingers." 😉
+- 📖 **Coding Style**: Clean, efficient, and maintainable.
+
+---
+
+## 📊 GitHub Stats
+
+| **Metric**             | **Value**        |
+|-------------------------|------------------|
+| ⭐ **Total Stars**      | 50+             |
+| 📦 **Repositories**    | 25+             |
+| 📈 **Commits (2025)**  | 200+            |
+| 🔄 **Pull Requests**   | 50+             |
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+<a href="https://jasonwilkerson.us"><img width="60" src="https://via.placeholder.com/60" alt="Website Icon"></a>
+<a href="https://linkedin.com/in/jason-wilkerson"><img width="60" src="https://via.placeholder.com/60" alt="LinkedIn Icon"></a>
+<a href="mailto:jason@example.com"><img width="60" src="https://via.placeholder.com/60" alt="Email Icon"></a>
+<a href="https://twitter.com/jason-wilkerson"><img width="60" src="https://via.placeholder.com/60" alt="Twitter Icon"></a>
+</div>
+
+---
+
+## 🤝 Let’s Collaborate
+
+I enjoy working on **open-source projects**, building **scalable solutions**, and tackling exciting challenges in the tech world. If you’re interested in collaborating, feel free to reach out!
+
+---
