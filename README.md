@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**
 
 - 💼 **Software Engineer** working on modernizing applications and delivering impactful solutions.
 - 🎓 **Senior Computer Science Student** at Ole Miss, specializing in **Cybersecurity** and minoring in **Mathematics**.
-- 🛠️ Founder of **Wilkerson Technologies**, consulting on **Networking**, **Infrastructure**, and **AI/ML** projects.
-- 🌟 **Open Source Contributor**, actively giving back to the community through meaningful collaboration.
-- 🎤 Former **Hackathon Organizer** at Ole Miss, leading events that drive innovation and creativity.
 
 ---
 
@@ -20,7 +17,7 @@ Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**
 
 ### **Core Competencies**
 - **Programming Languages**: Python, JavaScript, Java, C#, HTML, CSS
-- **Frameworks & Tools**: React, Flask, Django, SQLAlchemy, Docker, Kubernetes
+- **Frameworks & Tools**: React, Flask, Django, SQLAlchemy, Docker
 - **Cybersecurity Focus**: Phishing Prevention, Encryption, Secure Networking
 
 ### **Learning**
@@ -28,9 +25,9 @@ Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**
 - **Go**: Exploring high-performance backend development.
 
 ### **Platforms**
-<img align="left" width="60" src="https://via.placeholder.com/60" alt="MacOS Logo">  
-<img align="left" width="60" src="https://via.placeholder.com/60" alt="Windows Logo">  
-<img align="left" width="60" src="https://via.placeholder.com/60" alt="Linux Logo">  
+<img align="left" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" alt="MacOS Logo">  
+<img align="left" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows Logo">  
+<img align="left" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo">  
 
 ---
 
@@ -90,6 +87,6 @@ Welcome to my GitHub profile! I’m a **Software Engineer**, **Tech Consultant**
 
 ## 🤝 Let’s Collaborate
 
-I enjoy working on **open-source projects**, building **scalable solutions**, and tackling exciting challenges in the tech world. If you’re interested in collaborating, feel free to reach out!
+I enjoy working on open-source projects, building scalable solutions, and tackling exciting tech challenges. If you’re interested in collaborating, feel free to reach out!
 
 ---
